@@ -13,3 +13,5 @@ There is a google map link, an email link, social icon links and most importantl
 The website is not in use because my hairdresser had to use the software that she uses for billing to get her free website domain.
 
 I self taught myself how to build this website initially and modified it a little after boot camp.
+
+test a change
